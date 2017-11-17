@@ -1,4 +1,7 @@
+body {
+font-family: 'Libre Franklin', sans-serif;
 
+}
 
 header {
   text-align: center;
@@ -11,6 +14,7 @@ nav {
   margin-bottom: 20px;
   line-height: 40px;
   border-bottom: 1px solid #eee;
+  text-align: center;
 }
 
 #about, #story {
@@ -48,8 +52,9 @@ nav {
   margin-top: 60px;
 }
 
-h2 {
+h1 {
   color: #c6555b;
+  font-weight: bold;
 }
 
 select {
@@ -57,7 +62,8 @@ select {
 }
 
 p , li{
-  font-size: smaller;
+  line-height: 1.3;
+  font-weight: 
 }
 
 footer {
@@ -80,4 +86,9 @@ a {
 
 #contact {
   margin-bottom: 30px;
+}
+
+#mefirst {
+font-family: 'Exo', sans-serif;
+
 }
