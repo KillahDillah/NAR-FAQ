@@ -133,3 +133,11 @@ font-family: 'Lato', sans-serif;
 
 /*FAQ*/
 
+.contact-box {
+  width: 75%;
+  margin: auto;
+}
+
+.each {
+  padding-bottom: 10px;
+}
