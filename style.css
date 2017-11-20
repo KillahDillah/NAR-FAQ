@@ -18,7 +18,7 @@ nav {
   text-align: center;
 }
 
-#about h1 {
+.about h1 {
   border-bottom: 2px solid #eee;
   padding-bottom: 30px;
 }
@@ -40,18 +40,14 @@ nav {
   
 }
 
-#about {
-  border-bottom: 
-}
-
-#navigate {
+.navigate {
   border-left: 2px solid #eee;
   margin-left: 20px;
   margin-top: 30px;
   padding-left: 20px;
 }
 
-#nav-sect {
+.nav-sect {
   margin-top: 60px;
 }
 
@@ -129,7 +125,11 @@ a {
   margin-bottom: 30px;
 }
 
-#mefirst {
+.mefirst {
 font-family: 'Lato', sans-serif;
 
 }
+
+
+/*FAQ*/
+
