@@ -1,0 +1,27 @@
+/*ABOUT CSS ADD ON to STAGECOACH*/
+
+.abouttitle {
+	font-size: 2em;
+	color: rgb(198,84,90);
+	margin-left: -50px;
+    text-shadow: grey 1px 1px;
+    padding-bottom: 0px !important;
+}
+
+.aboutcontent {
+    margin-top: -5px;
+    text-transform: u
+}
+
+.aboutsub {
+	width: 500px;
+	margin: auto;
+}
+
+.aboutsub a {
+	text-decoration-line: none;
+}
+
+.aboutsub a:hover{
+	font-weight: bold;
+}
